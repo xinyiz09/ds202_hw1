@@ -1,0 +1,26 @@
+---
+title: "hw1"
+author: "Name: Xinyi Zhu Github username: xinyiz09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## R Markdown
+
+I think data analyst is closely related to data science.*A Data Analyst interprets data and turns it into information which can offer ways to improve a business, thus affecting business decisions.*  **Data Analysts gather information from various sources and interpret patterns and trends.** You can find more details on <https://www.rasmussen.edu/degrees/technology/blog/what-does-a-data-analyst-do/>.
+
+## {.white}
+
+<img class="cover" src="/Users/jessie/Desktop/data.png" alt="">
+
+
+```{r}
+version
+```
+
+```{r}
+git init
+```
+
